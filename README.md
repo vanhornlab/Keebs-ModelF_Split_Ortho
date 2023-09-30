@@ -4,7 +4,8 @@ The Model F Split Ortho Keyboard:
 
 https://www.modelfkeyboards.com/wp-content/uploads/2023/03/2022-11-28_17-54-02-scaled.jpg
 
-     The keyboard has 6.5 mm holes on the bottom plate. 
+
+The keyboard has 6.5 mm holes on the bottom plate. 
 
 This is a prototype for adjustable height tenting legs for the keyboard.
 The part was printed in carbon fiber ABS, with a M3 brass inset to seat an M3 (6 mm length) tension screw.
