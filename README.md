@@ -1,7 +1,9 @@
 # Keebs-ModelF_Split_Orth
 
 The Model F Split Ortho Keyboard:
+
 https://www.modelfkeyboards.com/wp-content/uploads/2023/03/2022-11-28_17-54-02-scaled.jpg
+
 The keyboard has 6.5 mm holes on the bottom plate. 
 
 This is a prototype for adjustable height tenting legs for the keyboard.
